@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tejaswini143
+- 👋 Hi, I’m Tejaswini rout
 - 👀 I’m interested in web Development
 - 🌱 I’m currently pursuing B.tech in CSE(AI&ML)
 - 📫 How to reach me teju98046@gmail.com
